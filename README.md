@@ -14,8 +14,8 @@
 - 2018 Korean Olympiad in Informatics(KOI) Silver Prize  
 - 2018 Sogang University High School Algorithm Contest 1st Prize  
 - 2019 UCPC 25th place  
-- 2019 ICPC Seoul Regional 13th place  
-- 2019 ICPC Da Nang Regional 27th place  
+- 2019 ACM-ICPC Seoul Regional 13th place  
+- 2019 ACM-ICPC Da Nang Regional 27th place  
 - 2019 Korea University Collegiate Programming Contest 1st Prize(Freshman Division)  
 
 
