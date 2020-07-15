@@ -18,5 +18,10 @@
 - 2019 ACM-ICPC Da Nang Regional 27th place  
 - 2019 Korea University Collegiate Programming Contest 1st Prize(Freshman Division)  
 
+## 강의 경력
+- 망포고등학교 동아리에서 강의 (2016~2017)
+- 고려대학교 알고리즘 동아리 ALPS 강의 진행 (2019~)
+- 코딩테스트 과외경력 有
+
 
 
