@@ -2,7 +2,7 @@
 - Roh Seyun  
 - Birth: 2000/05/01  
 - Education: Korea University,Computer Science and Egineering(2019~)  
-- Current Cumulative GPA : 4.11/4.5
+- Current Cumulative GPA : 4.03/4.5
 ## Problem Solving  
 - [BOJ](https://www.acmicpc.net/user/knon0501)  
 - [Codeforces](https://codeforces.com/profile/knon0501) max rating: 2290  
