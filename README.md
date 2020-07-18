@@ -17,6 +17,7 @@
 - 2019 ACM-ICPC Seoul Regional 13th place  
 - 2019 ACM-ICPC Da Nang Regional 27th place  
 - 2019 Korea University Collegiate Programming Contest 1st Prize(Freshman Division)  
+- 2020 SKH Algorithm Contest : Advanced 1st Prize
 
 ## 강의 경력
 - 망포고등학교 프로그래밍 동아리 강의 (2016~2017)
