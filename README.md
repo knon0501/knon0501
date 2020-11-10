@@ -1,5 +1,4 @@
 # Introduce  
-- Roh Seyun  
 - Birth: 2000/05/01  
 - Education: Korea University,Computer Science and Egineering(2019~)  
 - Current Cumulative GPA : 4.03/4.5
