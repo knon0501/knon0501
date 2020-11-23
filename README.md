@@ -1,4 +1,5 @@
 # Introduce  
+- Roh Seyun
 - Birth: 2000/05/01  
 - Education: Korea University,Computer Science and Egineering(2019~)  
 - Current Cumulative GPA : 4.03/4.5
@@ -17,6 +18,8 @@
 - 2019 ACM-ICPC Da Nang Regional 27th place  
 - 2019 Korea University Collegiate Programming Contest 1st Prize(Freshman Division)  
 - 2020 SKH Algorithm Contest : 1st Prize(Advanced Division)
+- 2020 UCPC 21th place
+- 2020 ICPC Seoul Reional 3rd place
 
 ## 강의 경력
 - 망포고등학교 프로그래밍 동아리 강의 (2016~2017)
